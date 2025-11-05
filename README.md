@@ -16,3 +16,6 @@ Johnny scored 90
 
 ## Author
 Aaren
+
+Homeless person who was allowed to be here
+Ryland *\(*o*)/*
