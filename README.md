@@ -8,8 +8,8 @@ My code for the 10th lab of beginner's java, which takes user input for students
 ## Example Output
 How Many Students? 2
 Enter Student Name: Jeffery
-Enter Score: 50
-Jeffery scored 50
+Enter Score: 60
+Jeffery scored 60
 Enter Student Name: Johnny
 Enter Score: 90
 Johnny scored 90
