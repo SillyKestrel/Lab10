@@ -19,3 +19,6 @@ Aaren
 
 Homeless person who was allowed to be here
 Ryland *\(*o*)/*
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Ryland on GitHub.
